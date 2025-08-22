@@ -1,4 +1,4 @@
-## 🌟 Hey there, I’m Shyam  ✨
+# 🌟 Hey there, I’m Shyam  ✨
 
 💻 BTech CSE Student @ IET Lucknow | 4th Year, 7th Semester  
 🛠 Full-Stack & AI Developer — MERN | Python | Machine Learning | Cybersecurity  
